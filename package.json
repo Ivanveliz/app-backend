@@ -1,0 +1,11 @@
+{
+  "name": "api-rest",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Ivan ve",
+  "license": "MIT",
+  "private": false,
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
